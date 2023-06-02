@@ -5,7 +5,7 @@ What this app does is that this app takes latest news from [NewsAPI](newsapi.org
 ### Notice - The speaking function only works for windows. For mac or linux there are different ways to make your program speak which you have to find out
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=9XFiTZRz0qU"><img width="140px" src="https://i.ytimg.com/vi/9XFiTZRz0qU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://i.ytimg.com/an_webp/7a5LsPz9jOs/mqdefault_6s.webp?du=3000&sqp=CNeQ5qMG&rs=AOn4CLDINnNuFONNoKIhgSo8Du6QEtUQYA"><img width="140px" src="https://i.ytimg.com/vi/9XFiTZRz0qU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7a5LsPz9jOs&t">Beginner Python Project - News Narration App using Requests Module</a><br/></td></tr>
 <tr><td><a href=""><img width="140px" src="https://i.ytimg.com/an_webp/7a5LsPz9jOs/mqdefault_6s.webp?du=3000&sqp=CNeQ5qMG&rs=AOn4CLDINnNuFONNoKIhgSo8Du6QEtUQYA"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dfeSpGd8leU">LinkFree: Contributing Guide</a> (May 31, 2023)<br/></td></tr>
