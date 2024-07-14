@@ -9,9 +9,9 @@ def speak(str):
     engine.runAndWait()
 
 if __name__ == '__main__':
-    speak('Oh Hello! I am the News Reader Programmed By Krishna. I will read out the latest news for you!')
-    speak("How Many News Do You Want to Hear?")
-    a = int(input("How Many Latest News do you want to hear?: "))
+    speak('Oh Hello! I will read out the latest news for my bro!')
+    speak("How Many News Articles Do You Want to Hear?")
+    a = int(input("How Many Latest News Articles do you want to hear?: "))
 
     url1 = 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=YOUR_API_KEY'
 
